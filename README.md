@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hello, I'm Dilshan! 👋
 
 I am a **Computer Science Undergraduate** specializing in **Data Science** at the University of Kelaniya. I am passionate about bridging the gap between raw data and functional, real-world web applications. 
