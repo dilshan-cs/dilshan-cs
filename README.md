@@ -1,28 +1,56 @@
 # Hello, I'm Dilshan! 👋
 
-I am a **Computer Science Undergraduate** specializing in **Data Science** at the University of Kelaniya. I am passionate about bridging the gap between raw data and functional, real-world web applications. 
+### 📊 Aspiring Data Analyst | Business Intelligence Enthusiast
 
-Whether it's building a scalable backend with Spring Boot or uncovering insights through machine learning and financial analysis, I love solving complex, real-world problems through code.
+I'm a Computer Science undergraduate specializing in **Data Science** at the **University of Kelaniya, Sri Lanka**. I'm passionate about transforming raw data into meaningful insights that support data-driven decision-making.
 
----
-
-### 🛠 Tech Stack
-
-**Data Science & Analysis:**
-* **Languages:** Python, SQL
-* **Libraries/Frameworks:** NumPy, Pandas, Scikit-learn, TensorFlow
-
-**Web Development:**
-* **Backend:** Spring Boot (MVC, JPA),Python Flask 
-* **Frontend:** HTML5, CSS3, JavaScript
-* **Databases:** PostgreSQL, Firebase, MongoDB
+I enjoy analyzing datasets, building interactive dashboards, identifying business trends, and automating reports to solve real-world business problems.
 
 ---
 
-### 🚀 What I'm Working On
-* **[Link to Social Media App]:** Building a full-stack social media application using Spring Boot and PostgreSQL.
-* **[Link to Cricket Scoring App]:** Developed a digital scoring platform for the FCT Shield university cricket tournament.
-* **Data Exploration:** Continuously refining my skills in data engineering pipelines and financial market analysis.
+### 🛠️ Skills & Technologies
+
+**📈 Data Analytics & Business Intelligence**
+- Power BI, DAX & Power Query
+- Microsoft Excel
+- Data Cleaning & Data Validation
+- Exploratory Data Analysis (EDA)
+- Dashboard Development & KPI Reporting
+- Data Visualization & Business Insights
+
+**💻 Programming & Data Analysis**
+- Python, SQL
+- Pandas, NumPy, Scikit-learn
+- Data Manipulation & Report Automation
+
+**🗄️ Databases**
+- Microsoft SQL Server
+- PostgreSQL
+- MySQL, MongoDB
+
+**🤖 Additional Skills**
+- Machine Learning & Predictive Analytics
+- Git & GitHub
+- Backend Development & REST APIs
+
+---
+
+### 🚀 Featured Projects
+
+- 📊 **Power BI Dashboards:** Developing interactive dashboards to monitor KPIs, analyze business performance, and communicate actionable insights.
+- 🗃️ **SQL Data Analysis:** Using joins, CTEs, window functions, aggregations, and advanced SQL queries to extract meaningful insights.
+- 🐍 **Python Data Analysis:** Cleaning datasets, performing exploratory data analysis, and automating repetitive reporting tasks.
+- 🤖 **Machine Learning Projects:** Applying machine learning techniques to real-world prediction and classification problems.
+
+---
+
+### 📚 Currently Learning
+
+- Advanced SQL for Data Analytics
+- Power BI, DAX & Data Modeling
+- Business Intelligence & Data Warehousing
+- Python for Data Analysis & Automation
+- Business Process Analysis
 
 ---
 
@@ -31,10 +59,13 @@ Whether it's building a scalable backend with Spring Boot or uncovering insights
 
 ---
 
-### 📫 Let's Connect
-* **LinkedIn:** https://www.linkedin.com/in/kavishka-dilshan-80192b267?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-* **Email:** kavishka.dilshan.cs@gmail.com
+### 🤝 Let's Connect!
 
-*Always open to collaboration on interesting projects or data science research!*
+- 💼 LinkedIn: [Kavishka Dilshan](https://www.linkedin.com/in/kavishka-dilshan-80192b267/)
+- 📧 Email: [kavishka.dilshan.cs@gmail.com](mailto:kavishka.dilshan.cs@gmail.com)
+
+---
+
+💡 *Passionate about data, driven by insights, and focused on turning information into business value.*
 
 
